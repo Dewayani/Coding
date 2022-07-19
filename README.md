@@ -5,7 +5,7 @@
 
 
 
-Expected output - 
+Expected output :
 Pushpa: The Rise - Part 1 (2021) - IMDb
 https://www.imdb.com/title/tt9389998/?ref_=nv_sr_srsg_0
 January 7, 2022 (United States) is ReleaseDate
