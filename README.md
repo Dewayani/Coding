@@ -14,5 +14,6 @@ Pushpa: The Rise - Wikipedia
 https://en.wikipedia.org/wiki/Pushpa:_The_Rise
 17 December 2021 is ReleasedateSecond
 India is CountrySecond
-Test Failed
-Test Failed
+Dates are not same
+Country is same
+
