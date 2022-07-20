@@ -6,12 +6,12 @@
 
 
 Expected output :
-Pushpa: The Rise - Part 1 (2021) - IMDb
-https://www.imdb.com/title/tt9389998/?ref_=nv_sr_srsg_0
+IMDb: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows
+https://www.imdb.com/
 January 7, 2022 (United States) is ReleaseDate
 India is Country
-Pushpa: The Rise - Wikipedia
-https://en.wikipedia.org/wiki/Pushpa:_The_Rise
+Wikipedia
+https://www.wikipedia.org/
 17 December 2021 is ReleasedateSecond
 India is CountrySecond
 Dates are not same
